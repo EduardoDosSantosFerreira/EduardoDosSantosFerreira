@@ -1,4 +1,4 @@
-<h1>Olá eu sou <span style="color: rgb(189, 0, 0);"> Eduardo Dos Santos Ferreira</span>, <span style="color:rgb(148, 148, 255)" id="stack">Front-End Developer</span> !<h1>
+<h1>Olá eu sou <p style="color: rgb(189, 0, 0);"> Eduardo Dos Santos Ferreira</s>, <p style="color:rgb(148, 148, 255)" id="stack">Front-End Developer</p> !<h1>
 
 <div style="display: inline_block; align-items: center;"><br>
   <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
