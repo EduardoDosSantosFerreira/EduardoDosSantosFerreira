@@ -8,6 +8,7 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="45" width="45" src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/EduardoDosSantosFerreira/PHP.png">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" align="center" height="40"/>
+  <img align="center" alt="SASS" height="40" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://avatars.githubusercontent.com/u/317889?s=200&v=4)">
   <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
