@@ -6,7 +6,7 @@
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="PHP" height="45" width="45" src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/php.svg">
+  <img alt="PHP" height="45" width="45" src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/PHP.png">
   <img alt="tailwind" height="40"  width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
   <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  alt="sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
