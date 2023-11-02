@@ -12,6 +12,7 @@
   <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  alt="sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
   <img  alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px"/>
   <br>
   <br>
   <div align="left">
