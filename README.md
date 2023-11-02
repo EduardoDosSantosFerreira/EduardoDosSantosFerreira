@@ -12,6 +12,11 @@
   <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  alt="sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
   <img  alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>
+  <br>
+  <div align="center">
+<a href="https://github.com/EduardoDosSantosFerreira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 </div>
