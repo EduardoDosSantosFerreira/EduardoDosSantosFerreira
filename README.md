@@ -7,14 +7,16 @@
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="PHP" height="45" width="45" src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/PHP.png">
-    <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="tailwind" height="40"  width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
   <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  alt="sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
   <img  alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px"/>
+</div>
   <br>
   <br>
+  
 <!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
@@ -50,7 +52,6 @@
     />
   </a>
 </div>
-
 </div>
  <br>
 <div style="text-decoration: none;"> 
@@ -60,7 +61,5 @@
   <a href="https://www.linkedin.com/in/eduardo-dos-santos-ferreira-007440251/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
 </div>
-   <img align="right" alt="me" src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/the_gif.gif"/>
-
+<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/edu.gif?raw=true" alt="Edu GIF" width="300" height="300">
