@@ -14,7 +14,7 @@
   <img  alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px"/>
   <br>
-   <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/the_gif.gif"/>
+   <img align="right" alt="me" src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/the_gif.gif"/>
   <br>
 <!-- GRS (Light Mode) -->
 <div align="center"> 
