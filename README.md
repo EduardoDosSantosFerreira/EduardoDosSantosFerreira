@@ -1,3 +1,13 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+
+  h2 {
+    text-decoration: none;
+  }
+</style>
+
 <h1>Olá eu sou Eduardo Dos Santos Ferreira, Front-End Developer!</h1>
 
 <!-- GRS (Light Mode) -->
