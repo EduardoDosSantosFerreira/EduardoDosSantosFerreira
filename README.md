@@ -59,6 +59,7 @@
     </div>
   <br>
 <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/edu.gif?raw=true" alt="Edu GIF" width="300" height="300">
+<br>
 <div style="text-decoration: none;"> 
   <a href = "mailto:eduardosferreira69@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
