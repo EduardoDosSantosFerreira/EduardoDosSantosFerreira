@@ -22,42 +22,42 @@
 
 <div style="display: inline-block; align-items: center;">
   <h2>💡 Knowledge</h2>
-  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40px" width="40px" />
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">ㅤ
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">ㅤ
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px" />ㅤ
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40px" width="40px" />ㅤ
 </div>
 
 <br>
 
 <div style="display: inline-block; align-items: center;">
   <h2>📖 Languages</h2>
-  <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
+  <img alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">ㅤ
+  <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">ㅤ
+  <img alt="cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>ㅤ
+  <img alt="c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>ㅤ
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">ㅤ
+  <img alt="PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">ㅤ
 </div>
 
 <br>
 
 <div style="display: inline-block; align-items: center;">
   <h2>📚 Libraries</h2>
-  <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>
-  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
-  <img alt="jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img alt="flask" height="40" width="40" src="https://damiandeluca.com.ar/wp-content/uploads/2020/05/flask.jpg" />
+  <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>ㅤ
+  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">ㅤ
+  <img alt="tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>ㅤ
+  <img alt="jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />ㅤ
+  <img alt="flask" height="40" width="40" src="https://damiandeluca.com.ar/wp-content/uploads/2020/05/flask.jpg" />ㅤ
 </div>
 
 <br>
 
 <div style="display: inline-block; align-items: center;">
   <h2>🏦 DataBases</h2>
-  <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Access" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png">
+  <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />ㅤ
+  <img alt="Access" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png">ㅤ
   <img alt="Mongo" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"/>
 </div>
 
@@ -65,7 +65,7 @@
 
 <div style="display: inline-block; align-items: center;">
   <h2>🎀 Extensions</h2>
-  <img alt="sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+  <img alt="sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>ㅤ
   <img alt="Cembed" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
 </div>
 
@@ -73,8 +73,8 @@
 
 <div style="display: inline-block; align-items: center;">
   <h2>✏️ Design</h2>
-  <img alt="ps" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-  <img alt="cd" height="40" width="40" src="https://user-images.githubusercontent.com/5500727/134825076-b09568dc-040d-4516-ba65-be5a1943b6df.png">
+  <img alt="ps" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>ㅤ
+  <img alt="cd" height="40" width="40" src="https://user-images.githubusercontent.com/5500727/134825076-b09568dc-040d-4516-ba65-be5a1943b6df.png">ㅤ
   <img alt="cd" height="44" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.png">
 </div>
 <br>
@@ -87,11 +87,11 @@
 <div style="text-decoration: none;"> 
   <a href="mailto:eduardosferreira69@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+  </a>ㅤ
   <a href="https://www.linkedin.com/in/eduardo-dos-santos-ferreira-007440251/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+  </a>ㅤ
   <a href="https://api.whatsapp.com/send?phone=5513981492795" class="social-follow__anchor" rel="me noopener" title="Whatsapp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
+  </a>ㅤ
 </div>
