@@ -21,7 +21,7 @@
 </div>
 
 <div style="display: inline-block; align-items: center;">
-  <h3>💡 Conhecimentos</h3>
+  <h2>💡 Conhecimentos</h2>
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
@@ -31,7 +31,7 @@
 <br>
 
 <div style="display: inline-block; align-items: center;">
-  <h3>📖 Linguagens</h3>
+  <h2>📖 Linguagens</h2>
   <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -42,7 +42,7 @@
 <br>
 
 <div style="display: inline-block; align-items: center;">
-  <h3>📚 Bibliotecas</h3>
+  <h2>📚 Bibliotecas</h2>
   <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
@@ -51,7 +51,7 @@
 <br>
 
 <div style="display: inline-block; align-items: center;">
-  <h3>🏦 Bancos</h3>
+  <h2>🏦 Bancos</h2>
   <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Access" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png">
   <img alt="Mongo" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"/>
