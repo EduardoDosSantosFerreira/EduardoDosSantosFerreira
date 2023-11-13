@@ -1,4 +1,4 @@
-<h3>Olá eu sou Eduardo Dos Santos Ferreira, Front-End Developer !<h3>
+<h1>Olá eu sou Eduardo Dos Santos Ferreira, Front-End Developer !<h1>
 <!-- GRS (Light Mode) -->
   <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
     <img
