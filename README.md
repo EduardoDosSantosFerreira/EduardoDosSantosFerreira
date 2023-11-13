@@ -15,7 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px"/>
 </div>
   <br>
-<hr style="border: 0; border-top: 1px solid #ccc; margin: 20px 0;">
   <br>
 <!-- GRS (Light Mode) -->
 <div align="center"> 
