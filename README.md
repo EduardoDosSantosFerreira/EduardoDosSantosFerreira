@@ -58,7 +58,6 @@
   <br>
       <div style="display: inline_block; align-items: center;">
     <h3>🏦 Bancos</h3>
-        <img  alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>
         <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         <img alt="Access" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png">
         <img alt="Mongo" height="50"  width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"/>
