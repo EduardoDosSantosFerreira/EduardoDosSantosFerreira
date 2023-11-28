@@ -60,7 +60,7 @@
   <h2>🏦 DataBases</h2>
   <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />ㅤ
   <img alt="Access" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png">ㅤ
-  <img alt="Mongo" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"/>
+  <img alt="Mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div>
 
 <br>
