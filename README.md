@@ -1,5 +1,4 @@
-<h1>Olá eu sou Eduardo Dos Santos Ferreira, Front-End Developer!</h1>
-
+<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/EduardoP.png ">
 <!-- GRS (Light Mode) -->
 <div>
   <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
@@ -18,6 +17,12 @@
   <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
     <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only" alt="My Language stats" height="350">
   </a>
+</div>
+
+<div style="display: inline-block; align-items: center;">
+  <h2>💻 OS </h2>
+  <img alt="Windows" height="40" width="40" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png">ㅤ
+  <img alt="Kali" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">ㅤ
 </div>
 
 <div style="display: inline-block; align-items: center;">
@@ -40,7 +45,6 @@
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">ㅤ
   <img alt="PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">ㅤ
-
 </div>
 
 <br>
@@ -82,7 +86,6 @@
 <br>
 
 <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/edu.gif?raw=true" alt="Edu GIF" width="300" height="300">
-
 <br>
 <br>
 
