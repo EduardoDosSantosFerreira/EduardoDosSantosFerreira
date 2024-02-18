@@ -1,4 +1,3 @@
-<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/EduardoP.png ">
 <!-- GRS (Light Mode) -->
 <div>
   <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
