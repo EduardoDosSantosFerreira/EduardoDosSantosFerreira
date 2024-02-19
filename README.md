@@ -84,7 +84,6 @@
 </div>
 <br>
 
-<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/edu.gif?raw=true" alt="Edu GIF" width="300" height="300">
 <br>
 <br>
 
