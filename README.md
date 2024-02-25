@@ -1,6 +1,5 @@
-<video autoplay loop muted>
-  <source src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/Apresentação1.mp4" type="video/mp4">
-</video>
+<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif">
+
 <!-- GRS (Light Mode) -->
 <div>
   <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
