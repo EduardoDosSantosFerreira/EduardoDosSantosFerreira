@@ -84,7 +84,8 @@
   <img alt="ps" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>ㅤ
   <img alt="cd" height="40" width="40" src="https://user-images.githubusercontent.com/5500727/134825076-b09568dc-040d-4516-ba65-be5a1943b6df.png">ㅤ
   <img alt="cd" height="44" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.png">
-  <img alt="fg" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />ㅤ
+  <img alt="fg" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="ad" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 </div>
 <br>
 
