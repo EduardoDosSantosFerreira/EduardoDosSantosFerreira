@@ -22,9 +22,22 @@
 
 <div style="display: inline-block; align-items: center;">
   <h2>💻 OS </h2>
-  <img alt="Windows" height="40" width="40" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png">ㅤ
-  <img alt="Kali" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">ㅤ
+  <img alt="Windows" height="38" width="38" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png">ㅤ
+  <img alt="W10" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+  <img alt="Kali" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">
+  <img alt="Arch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 </div>
+
+<div style="display: inline-block; align-items: center;">
+  <h2>🔨 Tools</h2>
+  <img alt="androidstudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />ㅤ
+  <img alt="eclipse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />ㅤ
+  <img alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />ㅤ
+  <img alt="visualstudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />ㅤ
+  <img alt="expo" height="40" width="40" src="https://www.svgviewer.dev/static-svgs/13890/expo-icon.svg" />ㅤ
+</div>
+
+<br>
 
 <div style="display: inline-block; align-items: center;">
   <h2>💡 Knowledge</h2>
@@ -32,7 +45,8 @@
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">ㅤ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px" />ㅤ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40px" width="40px" />ㅤ
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />ㅤ
+  <img alt="llvm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" />ㅤ
 </div>
 
 <br>
@@ -55,9 +69,10 @@
   <h2>📚 Libraries</h2>
   <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>ㅤ
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">ㅤ
-  <img alt="tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>ㅤ
-  <img alt="jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />ㅤ
-  <img alt="flask" height="40" width="40" src="https://damiandeluca.com.ar/wp-content/uploads/2020/05/flask.jpg" />ㅤ
+  <img alt="Tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>ㅤ
+  <img alt="Jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />ㅤ
+  <img alt="Flask" height="40" width="40" src="https://damiandeluca.com.ar/wp-content/uploads/2020/05/flask.jpg" />ㅤ
+  <img alt="Angualar" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />ㅤ
 </div>
 
 <br>
@@ -83,9 +98,10 @@
   <h2>✏️ Design</h2>
   <img alt="ps" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>ㅤ
   <img alt="cd" height="40" width="40" src="https://user-images.githubusercontent.com/5500727/134825076-b09568dc-040d-4516-ba65-be5a1943b6df.png">ㅤ
-  <img alt="cd" height="44" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.png">
-  <img alt="fg" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img alt="ad" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+  <img alt="cd" height="44" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.png">ㅤ
+  <img alt="fg" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />ㅤ
+  <img alt="ad" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />ㅤ
+  <img alt="cv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />ㅤ
 </div>
 <br>
 
