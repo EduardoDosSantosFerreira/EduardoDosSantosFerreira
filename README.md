@@ -61,8 +61,7 @@
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">ㅤ
   <img alt="PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">ㅤ
-  <img alt="SQL" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmPzPOCSNj88hmiwBQZaSB8pYj5skPcL4FA&usqp=CAU">ㅤ
-
+  <img alt="SQL" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/1265/1265531.png">ㅤ
 
 </div>
 
