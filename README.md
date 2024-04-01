@@ -31,6 +31,7 @@
 <div style="display: inline-block; align-items: center;">
   <h2>🔨 Tools</h2>
   <img alt="androidstudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />ㅤ
+  <img alt="py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />ㅤ
   <img alt="eclipse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />ㅤ
   <img alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />ㅤ
   <img alt="visualstudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />ㅤ
