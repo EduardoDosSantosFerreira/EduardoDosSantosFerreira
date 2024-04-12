@@ -37,6 +37,8 @@
   <img alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />ㅤ
   <img alt="visualstudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />ㅤ
   <img alt="expo" height="40" width="40" src="https://www.svgviewer.dev/static-svgs/13890/expo-icon.svg" />ㅤ
+  <img alt="unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+
 </div>
 
 <br>
