@@ -77,12 +77,33 @@ Sinta-se à vontade para entrar em contato comigo através das seguintes platafo
 
 Aqui estão alguns dos projetos que eu desenvolvi:
 
-- [🚀 Projeto 1](https://ajudacidadao.com.br): Site Oficial da Financeira Ajuda Cidadão.
-- [🤖 Projeto 2](https://robogestor.com.br): Site Oficial do Robo Gestor.
-- [🔥 Projeto 3](https://cleancrow.vercel.app): Site Oficial do CleanCrow.
+---
+
+#### [Ajuda Cidadão](https://ajudacidadao.com.br)
+<a href="https://ajudacidadao.com.br">
+    <img src="https://raw.githubusercontent.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/main/img/6%20(2).png" alt="Ajuda Cidadão" width="89" />
+</a>
+
+---
+
+#### [Robo Gestor](https://robogestor.com.br)
+<a href="https://robogestor.com.br">
+    <img src="https://raw.githubusercontent.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/main/img/logo-fp8UoF-z.png" alt="Robo Gestor" width="150" />
+</a>
+
+---
+
+#### [CleanCrow](https://cleancrow.vercel.app)
+<a href="https://cleancrow.vercel.app">
+    <img src="https://raw.githubusercontent.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/main/img/crow04.png" alt="CleanCrow" width="120" />
+</a>
 
 ---
 
 ## 🎉 Agradecimentos
 
 Agradeço por visitar meu perfil! Se você tiver alguma dúvida ou gostaria de conversar, não hesite em me procurar. Estou sempre aberto a novas conexões e colaborações!
+
+<br>
+
+<br>
