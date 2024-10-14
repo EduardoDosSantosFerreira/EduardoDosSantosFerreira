@@ -67,50 +67,25 @@
 <br>
 <br>
 
-## 🌟 Projetos em Destaque
-
-Aqui estão alguns dos projetos:
-
-<div style="display: flex; flex-direction: column; gap: 10px; margin-top: 10px;">
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://ajudacidadao.com.br" target="_blank" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
-      Ajuda Cidadão
-    </a>
-    <span>Site Oficial da Financeira Ajuda Cidadão.</span>
-  </div>
-  
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://robogestor.com.br" target="_blank" style="text-decoration: none; background-color: #2196F3; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
-      Robo Gestor
-    </a>
-    <span>Site Oficial do Robo Gestor.</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://cleancrow.vercel.app" target="_blank" style="text-decoration: none; background-color: #F44336; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
-      CleanCrow
-    </a>
-    <span>Site Oficial do CleanCrow.</span>
-  </div>
-</div>
-
----
-
-
-## 📞 Contato
+### 📞 Contato
 
 Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
 
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/eduardodossantosferreira/" target="_blank" style="text-decoration: none; background-color: #0077B5; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
-    LinkedIn
-  </a>
-  <a href="mailto:edaurdosferreira69@gmail.com" style="text-decoration: none; background-color: #d14836; color: white; padding: 10px 15px; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
-    Email
-  </a>
-</div>
+- [🔗 LinkedIn](https://www.linkedin.com/in/eduardodossantosferreira/)
+- [✉️ Email](mailto:eduardosferreira69@gmail.com)
 
 ---
+
+### 🌟 Projetos em Destaque
+
+Aqui estão alguns dos projetos que eu desenvolvi:
+
+- [🚀 Projeto 1](https://ajudacidadao.com.br): Site Oficial da Financeira Ajuda Cidadão.
+- [🤖 Projeto 2](https://robogestor.com.br): Site Oficial do Robo Gestor.
+- [🔥 Projeto 3](https://cleancrow.vercel.app): Site Oficial do CleanCrow.
+
+---
+
 
 
 ## 🎉 Agradecimentos
