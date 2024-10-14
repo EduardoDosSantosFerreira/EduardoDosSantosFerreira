@@ -64,15 +64,12 @@
 
 <br>
 
-<br>
-<br>
-
 ### 📞 Contato
 
 Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/eduardodossantosferreira/)
-- [✉️ Email](mailto:eduardosferreira69@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodossantosferreira/)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosferreira69@gmail.com)
 
 ---
 
@@ -85,8 +82,6 @@ Aqui estão alguns dos projetos que eu desenvolvi:
 - [🔥 Projeto 3](https://cleancrow.vercel.app): Site Oficial do CleanCrow.
 
 ---
-
-
 
 ## 🎉 Agradecimentos
 
