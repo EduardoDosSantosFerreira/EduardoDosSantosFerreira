@@ -75,7 +75,7 @@ Sinta-se à vontade para entrar em contato comigo através das seguintes platafo
 
 ### 🌟 Projetos em Destaque
 
-Aqui estão alguns dos projetos que eu desenvolvi:
+Aqui estão alguns dos projetos:
 
 ---
 
