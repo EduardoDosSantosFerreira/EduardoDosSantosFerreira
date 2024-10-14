@@ -19,28 +19,6 @@
     <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only" alt="My Language stats" height="350">
   </a>
 </div>
-
-<div style="display: inline-block; align-items: center;">
-  <h2>💻 OS </h2>
-  <img alt="Windows" height="38" width="38" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png">ㅤ
-  <img alt="W10" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-  <img alt="Kali" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">
-  <img alt="Arch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-  <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
-
-<div style="display: inline-block; align-items: center;">
-  <h2>🔨 Tools</h2>
-  <img alt="androidstudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />ㅤ
-  <img alt="py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />ㅤ
-  <img alt="eclipse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />ㅤ
-  <img alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />ㅤ
-  <img alt="visualstudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />ㅤ
-  <img alt="expo" height="40" width="40" src="https://www.svgviewer.dev/static-svgs/13890/expo-icon.svg" />ㅤ
-  <img alt="unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-
-</div>
-
 <br>
 
 <div style="display: inline-block; align-items: center;">
@@ -50,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px" />ㅤ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40px" width="40px" />ㅤ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />ㅤ
-  <img alt="llvm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" />ㅤ
 </div>
 
 <br>
@@ -58,14 +35,10 @@
 <div style="display: inline-block; align-items: center;">
   <h2>📖 Languages</h2>
   <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
-  <img alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">ㅤ
   <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">ㅤ
   <img alt="cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>ㅤ
-  <img alt="c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>ㅤ
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">ㅤ
   <img alt="PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">ㅤ
-  <img alt="SQL" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/1265/1265531.png">ㅤ
 
 </div>
 
@@ -75,10 +48,9 @@
   <h2>📚 Libraries</h2>
   <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>ㅤ
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">ㅤ
-  <img alt="Tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>ㅤ
-  <img alt="Jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />ㅤ
-  <img alt="Flask" height="40" width="40" src="https://damiandeluca.com.ar/wp-content/uploads/2020/05/flask.jpg" />ㅤ
-  <img alt="Angualar" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />ㅤ
+  <img alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />ㅤ
+  <img alt="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+
 </div>
 
 <br>
@@ -92,36 +64,28 @@
 
 <br>
 
-<div style="display: inline-block; align-items: center;">
-  <h2>🎀 Extensions</h2>
-  <img alt="sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>ㅤ
-  <img alt="Cembed" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
-</div>
-
-<br>
-
-<div style="display: inline-block; align-items: center;">
-  <h2>✏️ Design</h2>
-  <img alt="ps" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>ㅤ
-  <img alt="cd" height="40" width="40" src="https://user-images.githubusercontent.com/5500727/134825076-b09568dc-040d-4516-ba65-be5a1943b6df.png">ㅤ
-  <img alt="cd" height="44" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/coreldraw-icon.png">ㅤ
-  <img alt="fg" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />ㅤ
-  <img alt="ad" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />ㅤ
-  <img alt="cv" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />ㅤ
-</div>
-<br>
-
 <br>
 <br>
 
-<div style="text-decoration: none;"> 
-  <a href="mailto:eduardosferreira69@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>ㅤ
-  <a href="https://www.linkedin.com/in/eduardo-dos-santos-ferreira-007440251/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>ㅤ
-  <a href="https://api.whatsapp.com/send?phone=5513981492795" class="social-follow__anchor" rel="me noopener" title="Whatsapp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>ㅤ
-</div>
+## 🌟 Projetos em Destaque
+
+Aqui estão alguns dos projetos que eu desenvolvi:
+
+- [Projeto 1](https://ajudacidadao.com.br): Site Oficial da Financeira Ajuda Cidadão.
+- [Projeto 2](https://robogestor.com.br): Site Oficial do Robo Gestor.
+- [Projeto 3](https://cleancrow.vercel.app): Site Oficial do CleanCrow.
+
+---
+
+## 📞 Contato
+
+Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/eduardodossantosferreira/)
+- [Email](mailto:edaurdosferreira69@gmail.com)
+
+---
+
+## 🎉 Agradecimentos
+
+Agradeço por visitar meu perfil! Se você tiver alguma dúvida ou gostaria de conversar, não hesite em me procurar. Estou sempre aberto a novas conexões e colaborações!
