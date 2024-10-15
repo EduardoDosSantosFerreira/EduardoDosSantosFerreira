@@ -22,7 +22,7 @@
 <br>
 
 <div style="display: inline-block; align-items: center;">
-  <h2>📖 Languages</h2>
+  <h2>📖 Linguagens</h2>
   <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
   <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">ㅤ
   <img alt="cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>ㅤ
@@ -34,7 +34,7 @@
 <br>
 
 <div style="display: inline-block; align-items: center;">
-  <h2>📚 Libraries</h2>
+  <h2>📚 Bibliotecas</h2>
   <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>ㅤ
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">ㅤ
   <img alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />ㅤ
@@ -45,7 +45,7 @@
 <br>
 
 <div style="display: inline-block; align-items: center;">
-  <h2>🏦 DataBases</h2>
+  <h2>🏦 Bancos de Dados</h2>
   <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />ㅤ
   <img alt="Access" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png">ㅤ
   <img alt="Mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
