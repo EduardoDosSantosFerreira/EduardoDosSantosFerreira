@@ -66,21 +66,18 @@ Sinta-se à vontade para entrar em contato comigo através das seguintes platafo
 
 Aqui estão alguns dos projetos:
 
----
 
 #### [Ajuda Cidadão](https://ajudacidadao.com.br)
 <a href="https://ajudacidadao.com.br">
     <img src="https://raw.githubusercontent.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/main/img/6%20(2).png" alt="Ajuda Cidadão" width="89" />
 </a>
 
----
 
 #### [Robo Gestor](https://robogestor.com.br)
 <a href="https://robogestor.com.br">
     <img src="https://raw.githubusercontent.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/main/img/logo-fp8UoF-z.png" alt="Robo Gestor" width="150" />
 </a>
 
----
 
 #### [CleanCrow](https://cleancrow.vercel.app)
 <a href="https://cleancrow.vercel.app">
