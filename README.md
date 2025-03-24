@@ -1,4 +1,4 @@
-<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif"  width="760" style="filter: grayscale(100%);">
+<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif"  width="775" style="filter: grayscale(100%);">
 
 <!-- GRS (Light Mode) -->
 <div>
