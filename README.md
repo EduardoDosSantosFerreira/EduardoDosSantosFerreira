@@ -1,4 +1,5 @@
 <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif"  width="775" style="filter: grayscale(100%);">
+<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/full.gif"  width="775" style="filter: grayscale(100%);">
 
 <!-- GRS (Light Mode) -->
 <div>
@@ -19,7 +20,5 @@
     <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only" alt="My Language stats" height="350">
   </a>
 </div>
-
-<img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/tecknologia.gif"  width="450" style="filter: grayscale(100%);">
 
 ---
