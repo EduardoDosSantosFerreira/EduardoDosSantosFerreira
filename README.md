@@ -21,9 +21,13 @@
   </a>
 </div>
 
-<summary><h3>📊 Estatísticas | </h3> 
+<details>
+  <summary><h3>📊 Estatísticas | </h3></summary>
+  
   <img height="20px" src="https://visitcount.itsvg.in/api?id=EduardoDosSantosFerreira&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</summary>
 
-<img alt="Eduardo's WakaTime Stats" 
-     src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardo_dsf&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" />
+  <!-- WakaTime Stats -->
+  <a href="https://wakatime.com/@EduardoDosSantosFerreira">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EduardoDosSantosFerreira&layout=compact&theme=tokyonight" />
+  </a>
+</details>
