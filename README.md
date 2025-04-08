@@ -24,7 +24,6 @@
 <details>
   <summary><h3>📊 Estatísticas | </h3></summary>
   
-  <img height="20px" src="https://visitcount.itsvg.in/api?id=EduardoDosSantosFerreira&label=Profile%20Views&color=12&icon=5&pretty=true" />
 
   <!-- WakaTime Stats -->
   <a href="https://wakatime.com/@EduardoDosSantosFerreira">
