@@ -28,6 +28,6 @@
 
   <!-- WakaTime Stats -->
   <a href="https://wakatime.com/@EduardoDosSantosFerreira">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EduardoDosSantosFerreira&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardo_dsf&layout=compact&theme=tokyonight" />
   </a>
 </details>
