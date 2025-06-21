@@ -1,6 +1,6 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif" width="400" style="filter: grayscale(100%);">
-  <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/full.gif" width="400">
+  <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif" width="450" style="filter: grayscale(100%);">
+  <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/full.gif" width="450">
 </div>
 
 <!-- GITHUB STATS - LIGHT MODE -->
