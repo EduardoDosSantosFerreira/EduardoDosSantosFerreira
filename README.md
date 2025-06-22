@@ -22,10 +22,3 @@
   <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
     <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only" alt="My Language stats" height="350">
   </a>
-  <a href="https://wakatime.com/@eduardo_dsf" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardo_dsf&layout=compact&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&hide_border=true" alt="WakaTime stats" height="325">
-  </a>
-  <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
-    <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=donut-vertical&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only" alt="Top Langs" height="350">
-  </a>
-</div>
