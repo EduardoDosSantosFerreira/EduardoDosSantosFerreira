@@ -23,7 +23,7 @@ HTML • CSS • JavaScript • jQuery • Bootstrap • Sass • Vue.js • Nod
 Python • Tkinter • PySide6 • PyInstaller  
 
 #### ⚙️ Ferramentas
-Git • GitHub • VS Code • Notion • Figma • Photoshop  
+Git • GitHub • VS Code/Cursor • Notion • Figma • Photoshop  
 
 ---
 
