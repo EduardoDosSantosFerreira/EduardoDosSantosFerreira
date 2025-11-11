@@ -7,14 +7,10 @@ Crio sites, sistemas e aplicações completas — do navegador ao desktop.
 
 ---
 
-### 🚀 Sobre mim
-Sou Técnico em Desenvolvimento de Sistemas com foco em **criar soluções reais** — desde sites e sistemas web até softwares desktop completos.
-
-Gosto de unir **simplicidade e eficiência** em tudo o que desenvolvo, sempre buscando entregar algo que realmente resolva um problema.  
-Trabalho com **HTML, CSS e JavaScript puro**, além de **Python** para automação e interfaces gráficas (Tkinter, PySide6).  
-Também utilizo ferramentas como **Node.js, Firebase, Git e Vercel** para integração e hospedagem de projetos.
-
-💡 Acredito que boas soluções nascem de código limpo, propósito claro e curiosidade constante.
+### 🧠 Sobre
+- Técnico em Desenvolvimento de Sistemas.  
+- Foco em desenvolvimento web e criação de softwares desktop.  
+- Experiência com automação, interfaces gráficas e integração entre sistemas.  
 
 ---
 
