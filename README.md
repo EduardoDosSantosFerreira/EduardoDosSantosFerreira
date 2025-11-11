@@ -28,10 +28,10 @@ Git • GitHub • VS Code • Notion • Figma • Photoshop
 ---
 
 ### 🖥️ Projetos em Destaque
-🔗 [CleanCrow](#) – Otimização e manutenção automática do sistema Windows.  
-🔗 [Crowvert](#) – Conversor de arquivos em massa com interface moderna.  
-🔗 [Ravenizer](#) – Atualizador automático de apps e pacotes do Windows.  
-🔗 [Coloeus](#) – Ferramenta administrativa para controle de permissões.  
+🔗 [CleanCrow](https://cleancrow.vercel.app/) – Otimização e manutenção automática do sistema Windows.  
+🔗 [Crowvert](https://crowvert.vercel.app/) – Conversor de arquivos em massa com interface moderna.  
+🔗 [Ravenizer](https://eduardodossantosferreira.github.io/ravenizer/) – Atualizador automático de apps e pacotes do Windows.  
+🔗 [Coloeus](https://eduardodossantosferreira.github.io/coloeus/) – Ferramenta administrativa para controle de permissões.  
 
 > Veja todos os meus projetos no [meu portfólio](https://eduardodossantosferreira.github.io/portfolio).
 
