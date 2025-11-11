@@ -23,7 +23,7 @@ HTML • CSS • JavaScript • jQuery • Bootstrap • Sass • Vue.js • Nod
 Python • Tkinter • PySide6 • PyInstaller  
 
 #### ⚙️ Ferramentas
-Git • GitHub • VS Code/Cursor • Notion • Figma • Photoshop  
+Git • GitHub • VS Code/Cursor • Notion • Figma • Photoshop • PyQt5
 
 ---
 
@@ -33,7 +33,7 @@ Git • GitHub • VS Code/Cursor • Notion • Figma • Photoshop
 🔗 [Ravenizer](https://eduardodossantosferreira.github.io/ravenizer/) – Atualizador automático de apps e pacotes do Windows.  
 🔗 [Coloeus](https://eduardodossantosferreira.github.io/coloeus/) – Ferramenta administrativa para controle de permissões.  
 
-> Veja todos os meus projetos no [meu portfólio](https://eduardodossantosferreira.github.io/portfolio).
+> Veja todos os meus projetos no [meu portfólio](https://in-my-portfolio.vercel.app/).
 
 ---
 
@@ -41,7 +41,7 @@ Git • GitHub • VS Code/Cursor • Notion • Figma • Photoshop
 📧 **Email:** eduardo.dsf.dev@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/eduardodossantosferreira](https://www.linkedin.com/in/eduardodossantosferreira/)  
 💬 **Discord:** eduardo_dsf  
-💻 **Portfólio:** [eduardodossantosferreira.github.io/portfolio](https://eduardodossantosferreira.github.io/portfolio)
+💻 **Portfólio:** [Meu portfólio](https://in-my-portfolio.vercel.app/)
 
 ---
 
