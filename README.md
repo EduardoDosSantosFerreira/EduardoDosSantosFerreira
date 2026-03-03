@@ -26,13 +26,16 @@ Crio sites, sistemas internos, automações e softwares desktop completos.
 ### 🧩 Tecnologias e Ferramentas
 
 #### 🌐 Desenvolvimento Web
-HTML • CSS • JavaScript • Bootstrap • Vue.js • Node.js • Firebase
+HTML • CSS • JavaScript • Bootstrap • SASS • Vue.js • React • Angular • Node.js • Firebase
 
 #### 🐍 Desenvolvimento de Software (Desktop)
-Python • Tkinter • PySide6 • PyInstaller • PyQt5
+Python • Tkinter • PySide6 • PyInstaller • PyQt5 • C • C++ • C# • TeX
 
 #### ⚙️ Infraestrutura / TI
 Redes • Suporte Técnico • Windows • Manutenção • Segurança da Informação
+
+#### 🗄️ Bancos de Dados
+MySQL • Firebase • MongoDB
 
 #### 🛠 Ferramentas
 Git • GitHub • VS Code • Cursor • Figma • Notion • Photoshop
