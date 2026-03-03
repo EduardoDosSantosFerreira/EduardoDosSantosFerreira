@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Eduardo</h1>
 
 <p align="center">
-💻 <b>Fullstack Developer & IT Specialist</b><br>
+💻 <b>Fullstack Developer & IT </b><br>
 Crio sites, sistemas internos, automações e softwares desktop completos.
 </p>
 
