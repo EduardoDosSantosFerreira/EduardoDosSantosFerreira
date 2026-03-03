@@ -5,6 +5,13 @@
 Crio sites, sistemas internos, automações e softwares desktop completos.
 </p>
 
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif" width="370" style="filter: grayscale(100%);">
+    <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/full.gif" width="370">
+  </div>
+</div>
+
 ---
 
 ### 🧠 Sobre mim
@@ -52,11 +59,13 @@ Git • GitHub • VS Code • Cursor • Figma • Notion • Photoshop
 
 ---
 
-### 📫 Contato
+### 📱 Redes Sociais
+🐦 **X (Twitter):** [@eduardo_dsf_dev](https://twitter.com/eduardo_dsf_dev)  
+📷 **Instagram:** [@eduardo_dsf69](https://instagram.com/eduardo_dsf69)  
 📧 **Email:** eduardo.dsf.dev@gmail.com  
-🌐 **LinkedIn:** https://www.linkedin.com/in/eduardodossantosferreira/  
+🌐 **LinkedIn:** [https://www.linkedin.com/in/eduardodossantosferreira/](https://www.linkedin.com/in/eduardodossantosferreira/)  
 💬 **Discord:** eduardo_dsf  
-💻 **Portfólio:** https://in-my-portfolio.vercel.app  
+💻 **Portfólio:** [https://in-my-portfolio.vercel.app](https://in-my-portfolio.vercel.app)  
 
 ---
 
