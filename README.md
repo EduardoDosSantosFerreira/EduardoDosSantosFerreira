@@ -29,7 +29,7 @@ Crio sites, sistemas internos, automações e softwares desktop completos.
 HTML • CSS • JavaScript • Bootstrap • SASS • Vue.js • React • Angular • Node.js • Firebase
 
 #### 🐍 Desenvolvimento de Software (Desktop)
-Python • Tkinter • PySide6 • PyInstaller • PyQt5 • C • C++ • C# • TeX
+Python • Tkinter • PySide6 • C++ • C# • TeX
 
 #### ⚙️ Infraestrutura / TI
 Redes • Suporte Técnico • Windows • Manutenção • Segurança da Informação
