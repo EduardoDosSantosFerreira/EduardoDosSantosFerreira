@@ -71,8 +71,3 @@ Git • GitHub • VS Code • Cursor • Figma • Notion • Photoshop
 💻 **Portfólio:** [https://in-my-portfolio.vercel.app](https://in-my-portfolio.vercel.app)  
 
 ---
-
-<p align="center">
-  <i>“Não é mais sobre o que eu sei, e sim sobre o que eu construo.”</i><br><br>
-  🦅 <b>Eduardo dos Santos Ferreira</b>
-</p>
