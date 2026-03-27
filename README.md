@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello, I'm Eduardo</h1>
+<h1 align="center">👋 Olá, eu sou o Eduardo</h1>
 
 <p align="center">
-  <b>Fullstack Developer | IT Specialist | Automation Creator</b><br>
-  Building web applications, desktop software, and smart automation solutions.
+  <b>Desenvolvedor Fullstack | Especialista em TI | Criador de Automações</b><br>
+  Criando aplicações web, softwares desktop e soluções inteligentes de automação.
 </p>
 
 <div align="center">
@@ -12,20 +12,20 @@
 
 ---
 
-## 📌 About Me
+## 📌 Sobre Mim
 
-I'm a passionate developer and IT professional who loves creating practical solutions that make a difference. With a background in systems development and technical support, I bridge the gap between software engineering and infrastructure.
+Sou um desenvolvedor e profissional de TI apaixonado por criar soluções práticas que fazem a diferença. Com formação em desenvolvimento de sistemas e experiência em suporte técnico, atuo na ponte entre engenharia de software e infraestrutura.
 
-- 🎓 **Systems Development Technician** – ETEC
-- 💼 Experienced in **IT support, networking, and infrastructure**
-- 🖥️ Specialized in **Python desktop applications** with modern GUIs
-- 🌐 Skilled in **full-stack web development**
-- 🤖 Creator of **automation tools** for Windows environments
-- 🚀 Built real-world systems currently used by businesses
+- 🎓 **Técnico em Desenvolvimento de Sistemas** – ETEC
+- 💼 Experiência em **suporte de TI, redes e infraestrutura**
+- 🖥️ Especializado em **aplicações desktop com Python** e interfaces modernas
+- 🌐 Habilidades em **desenvolvimento fullstack web**
+- 🤖 Criador de **ferramentas de automação** para ambientes Windows
+- 🚀 Desenvolvi sistemas reais atualmente utilizados por empresas
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -46,12 +46,12 @@ I'm a passionate developer and IT professional who loves creating practical solu
 ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/-PySide6-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps & Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -60,21 +60,21 @@ I'm a passionate developer and IT professional who loves creating practical solu
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[CleanCrow](https://cleancrow.vercel.app)** | Windows optimization and maintenance tool | Python, Tkinter |
-| **[Crowvert](https://crowvert.vercel.app)** | Modern file converter with sleek interface | Python, PySide6 |
-| **[DarkFeather](https://github.com/EduardoDosSantosFerreira/darkfeather)** | Graphical Wi-Fi network scanner | Python, Tkinter |
-| **[BlackWing](https://github.com/EduardoDosSantosFerreira/blackwing)** | Advanced Windows process manager | Python, PySide6 |
-| **[Ravenizer](https://eduardodossantosferreira.github.io/ravenizer)** | Automated package and app updater | Python, JavaScript |
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[CleanCrow](https://cleancrow.vercel.app)** | Ferramenta de otimização e manutenção para Windows | Python, Tkinter |
+| **[Crowvert](https://crowvert.vercel.app)** | Conversor de arquivos com interface moderna | Python, PySide6 |
+| **[DarkFeather](https://github.com/EduardoDosSantosFerreira/darkfeather)** | Scanner gráfico de redes Wi-Fi | Python, Tkinter |
+| **[BlackWing](https://github.com/EduardoDosSantosFerreira/blackwing)** | Gerenciador avançado de processos do Windows | Python, PySide6 |
+| **[Ravenizer](https://eduardodossantosferreira.github.io/ravenizer)** | Atualizador automático de pacotes e aplicativos | Python, JavaScript |
 
-> ✨ **Explore more** on my [portfolio website](https://in-my-portfolio.vercel.app)
+> ✨ **Veja mais** no meu [portfólio](https://in-my-portfolio.vercel.app)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Estatísticas do GitHub
 
 <!-- Light Mode Stats -->
 <div align="center">
@@ -94,14 +94,18 @@ I'm a passionate developer and IT professional who loves creating practical solu
 
 ---
 
-## 📫 Let's Connect
+## 📫 Vamos Conectar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodossantosferreira/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eduardo_dsf_dev)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo_dsf69)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://in-my-portfolio.vercel.app)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://in-my-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.dsf.dev@gmail.com)
 
 **Discord:** `eduardo_dsf`
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EduardoDosSantosFerreira&style=flat-square&color=2d77dc" alt="Visualizações do perfil">
+</p>
