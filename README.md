@@ -12,9 +12,36 @@ Crio sites, sistemas internos, automações e softwares desktop completos.
   </div>
 </div>
 
+### 📊 Estatísticas do GitHub
+
+<!-- GITHUB STATS - LIGHT MODE -->
+<div align="center">
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
+    <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
+      <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only" alt="GitHub stats" height="180">
+    </a>
+    <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
+      <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&hide_border=true&langs_count=8#gh-light-mode-only" alt="Linguagens mais usadas" height="180">
+    </a>
+  </div>
+</div>
+
+<!-- GITHUB STATS - DARK MODE -->
+<div align="center">
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
+    <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
+      <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&icon_color=5bc0ff&title_color=5bc0ff&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only" alt="GitHub stats dark" height="180">
+    </a>
+    <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
+      <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&icon_color=5bc0ff&title_color=5bc0ff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8#gh-dark-mode-only" alt="Linguagens mais usadas dark" height="180">
+    </a>
+  </div>
+</div>
+
 ---
 
 ### 🧠 Sobre mim
+
 - Técnico em Desenvolvimento de Sistemas (ETEC).
 - Experiência em TI, suporte técnico e infraestrutura.
 - Desenvolvimento de aplicações web e softwares desktop em Python.
@@ -26,23 +53,29 @@ Crio sites, sistemas internos, automações e softwares desktop completos.
 ### 🧩 Tecnologias e Ferramentas
 
 #### 🌐 Desenvolvimento Web
+
 HTML • CSS • JavaScript • Bootstrap • SASS • Vue.js • React • Angular • Node.js • Firebase
 
 #### 🐍 Desenvolvimento de Software (Desktop)
+
 Python • Tkinter • PySide6 • C++ • C# • TeX
 
 #### ⚙️ Infraestrutura / TI
+
 Redes • Suporte Técnico • Windows • Manutenção • Segurança da Informação
 
 #### 🗄️ Bancos de Dados
+
 MySQL • Firebase • MongoDB
 
 #### 🛠 Ferramentas
+
 Git • GitHub • VS Code • Cursor • Figma • Notion • Photoshop
 
 ---
 
 ### 🖥️ Projetos em Destaque
+
 🔗 **CleanCrow** – Ferramenta de otimização e manutenção para Windows.  
 ➡️ https://cleancrow.vercel.app/
 
@@ -63,11 +96,12 @@ Git • GitHub • VS Code • Cursor • Figma • Notion • Photoshop
 ---
 
 ### 📱 Redes Sociais
+
 🐦 **X (Twitter):** [@eduardo_dsf_dev](https://twitter.com/eduardo_dsf_dev)  
 📷 **Instagram:** [@eduardo_dsf69](https://instagram.com/eduardo_dsf69)  
 📧 **Email:** eduardo.dsf.dev@gmail.com  
 🌐 **LinkedIn:** [https://www.linkedin.com/in/eduardodossantosferreira/](https://www.linkedin.com/in/eduardodossantosferreira/)  
 💬 **Discord:** eduardo_dsf  
-💻 **Portfólio:** [https://in-my-portfolio.vercel.app](https://in-my-portfolio.vercel.app)  
+💻 **Portfólio:** [https://in-my-portfolio.vercel.app](https://in-my-portfolio.vercel.app)
 
 ---
