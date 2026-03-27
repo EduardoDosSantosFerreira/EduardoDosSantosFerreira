@@ -79,16 +79,16 @@ I'm a passionate developer and IT professional who loves creating practical solu
 <!-- Light Mode Stats -->
 <div align="center">
   <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
-    <img height="300em" src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only">
-    <img height="300em" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&hide_border=true&langs_count=8#gh-light-mode-only">
+    <img height="250em" src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only">
+    <img height="250em" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&hide_border=true&langs_count=8#gh-light-mode-only">
   </a>
 </div>
 
 <!-- Dark Mode Stats -->
 <div align="center">
   <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
-    <img height="300em" src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only">
-    <img height="300em" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8#gh-dark-mode-only">
+    <img height="250em" src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only">
+    <img height="250em" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8#gh-dark-mode-only">
   </a>
 </div>
 
@@ -105,7 +105,3 @@ I'm a passionate developer and IT professional who loves creating practical solu
 **Discord:** `eduardo_dsf`
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EduardoDosSantosFerreira&style=flat-square&color=2d77dc" alt="Profile views">
-</p>
