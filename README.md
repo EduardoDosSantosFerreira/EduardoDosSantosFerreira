@@ -12,31 +12,6 @@ Crio sites, sistemas internos, automações e softwares desktop completos.
   </div>
 </div>
 
-### 📊 Estatísticas do GitHub
-
-<!-- GITHUB STATS - LIGHT MODE -->
-<div align="center">
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
-      <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only" alt="GitHub stats" height="180">
-    </a>
-    <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
-      <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&hide_border=true&langs_count=8#gh-light-mode-only" alt="Linguagens mais usadas" height="180">
-    </a>
-  </div>
-</div>
-
-<!-- GITHUB STATS - DARK MODE -->
-<div align="center">
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
-      <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&icon_color=5bc0ff&title_color=5bc0ff&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only" alt="GitHub stats dark" height="180">
-    </a>
-    <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
-      <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&icon_color=5bc0ff&title_color=5bc0ff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8#gh-dark-mode-only" alt="Linguagens mais usadas dark" height="180">
-    </a>
-  </div>
-</div>
 
 ---
 
@@ -105,3 +80,22 @@ Git • GitHub • VS Code • Cursor • Figma • Notion • Photoshop
 💻 **Portfólio:** [https://in-my-portfolio.vercel.app](https://in-my-portfolio.vercel.app)
 
 ---
+<!-- GRS (Light Mode) -->
+<div>
+  <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only" alt="My Github stats" height="350">
+  </a>
+  <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=pie&hide_border=true&langs_count=10#gh-light-mode-only" alt="My Language stats" height="350">
+  </a>
+</div>
+
+<!-- GRS (Dark Mode) -->
+<div>
+  <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only" alt="My Github stats" height="300">
+  </a>
+  <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only" alt="My Language stats" height="300">
+  </a>
+</div>
