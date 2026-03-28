@@ -25,38 +25,44 @@ Sou um desenvolvedor e profissional de TI apaixonado por criar soluções práti
 
 ---
 
-## 🛠️ Stack Tecnológica
+<div style="display: inline-block; align-items: center;">
+  <h2>💡 Knowledge</h2>
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">ㅤ
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">ㅤ
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" width="40px" />ㅤ
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
+</div>
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+<br>
 
-### 🐍 Backend & Desktop
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
-![PySide6](https://img.shields.io/badge/-PySide6-3776AB?style=flat-square&logo=python&logoColor=white)
+<div style="display: inline-block; align-items: center;">
+  <h2>📖 Languages</h2>
+  <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
+  <img alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">ㅤ
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">ㅤ
+  <img alt="PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+</div>
 
-### 🗄️ Bancos de Dados
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<br>
 
-### ⚙️ DevOps & Ferramentas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
+<div style="display: inline-block; align-items: center;">
+  <h2>📚 Libraries</h2>
+  <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>ㅤ
+  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">ㅤ
+  <img alt="tailwind" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>ㅤ
+  <img alt="jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />ㅤ
+  <img alt="flask" height="40" width="40" src="https://damiandeluca.com.ar/wp-content/uploads/2020/05/flask.jpg" />ㅤ
+</div>
+
+<br>
+
+<div style="display: inline-block; align-items: center;">
+  <h2>🏦 DataBases</h2>
+  <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />ㅤ
+  <img alt="Access" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png">ㅤ
+  <img alt="Mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+</div>
+<br>
 
 ---
 
@@ -93,18 +99,17 @@ Sou um desenvolvedor e profissional de TI apaixonado por criar soluções práti
 </div>
 
 ---
-
-## 📫 Vamos Conectar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodossantosferreira/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eduardo_dsf_dev)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo_dsf69)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://in-my-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.dsf.dev@gmail.com)
-
-**Discord:** `eduardo_dsf`
-
+<a href="https://wakatime.com/@eduardo_dsf" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardo_dsf&layout=compact&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&hide_border=true" alt="WakaTime stats" height="350">
+</a>
 ---
+
+### 📫 Contato
+📧 **Email:** eduardo.dsf.dev@gmail.com  
+🌐 **LinkedIn:** https://www.linkedin.com/in/eduardodossantosferreira/  
+💬 **Discord:** eduardo_dsf  
+💻 **Portfólio:** https://in-my-portfolio.vercel.app  
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EduardoDosSantosFerreira&style=flat-square&color=2d77dc" alt="Visualizações do perfil">
