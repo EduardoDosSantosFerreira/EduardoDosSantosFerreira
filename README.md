@@ -99,10 +99,6 @@ Sou um desenvolvedor e profissional de TI apaixonado por criar soluções práti
 </div>
 
 ---
-<a href="https://wakatime.com/@eduardo_dsf" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardo_dsf&layout=compact&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&hide_border=true" alt="WakaTime stats" height="350">
-</a>
----
 
 ### 📫 Contato
 📧 **Email:** eduardo.dsf.dev@gmail.com  
