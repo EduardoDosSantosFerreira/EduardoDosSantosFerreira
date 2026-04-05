@@ -1,10 +1,3 @@
-<h1 align="center">👋 Olá, eu sou o Eduardo</h1>
-
-<p align="center">
-  <b>Desenvolvedor Fullstack | Especialista em TI | Criador de Automações</b><br>
-  Criando aplicações web, softwares desktop e soluções inteligentes de automação.
-</p>
-
 <div align="center">
   <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif" width="370">
   <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/full.gif" width="370">
