@@ -14,9 +14,12 @@
 
 ## 📌 Sobre Mim
 
-Sou um desenvolvedor e profissional de TI apaixonado por criar soluções práticas que fazem a diferença. Com formação em desenvolvimento de sistemas e experiência em suporte técnico, atuo na ponte entre engenharia de software e infraestrutura.
+Sou desenvolvedor e profissional de TI, fundador da **Noctra Systems**, onde atuo criando soluções tecnológicas sob medida com foco em automação, eficiência e performance.
+
+Com formação em desenvolvimento de sistemas e experiência em suporte técnico, atuo na ponte entre engenharia de software e infraestrutura.
 
 - 🎓 **Técnico em Desenvolvimento de Sistemas** – ETEC
+- 🏢 **Founder da Noctra Systems**
 - 💼 Experiência em **suporte de TI, redes e infraestrutura**
 - 🖥️ Especializado em **aplicações desktop com Python** e interfaces modernas
 - 🌐 Habilidades em **desenvolvimento fullstack web**
