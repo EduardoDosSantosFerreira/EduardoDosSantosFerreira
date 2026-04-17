@@ -64,11 +64,11 @@ Com formação em desenvolvimento de sistemas e experiência em suporte técnico
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[CleanCrow](https://cleancrow.vercel.app)** | Ferramenta de otimização e manutenção para Windows | Python, Tkinter |
-| **[Crowvert](https://crowvert.vercel.app)** | Conversor de arquivos com interface moderna | Python, PySide6 |
-| **[DarkFeather](https://github.com/EduardoDosSantosFerreira/darkfeather)** | Scanner gráfico de redes Wi-Fi | Python, Tkinter |
-| **[BlackWing](https://github.com/EduardoDosSantosFerreira/blackwing)** | Gerenciador avançado de processos do Windows | Python, PySide6 |
-| **[Ravenizer](https://eduardodossantosferreira.github.io/ravenizer)** | Atualizador automático de pacotes e aplicativos | Python, JavaScript |
+| **[CleanCrow](https://cleancrow.vercel.app)** | Ferramenta de otimização e manutenção para Windows | Python & C# |
+| **[Crowvert](https://crowvert.vercel.app)** | Conversor de arquivos com interface moderna | Python |
+| **[DarkFeather](https://github.com/EduardoDosSantosFerreira/darkfeather)** | Scanner gráfico de redes Wi-Fi | Python |
+| **[BlackWing](https://github.com/EduardoDosSantosFerreira/blackwing)** | Gerenciador avançado de processos do Windows | Python |
+| **[Ravenizer](https://eduardodossantosferreira.github.io/ravenizer)** | Atualizador automático de pacotes e aplicativos | Python & JavaScript |
 
 >  **Veja mais** no meu [portfólio](https://in-my-portfolio.vercel.app)
 
