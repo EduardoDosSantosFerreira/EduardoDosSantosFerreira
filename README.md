@@ -4,35 +4,49 @@
 
 ---
 
-# About Me
+# Eduardo Ferreira
 
-I'm a developer and IT professional focused on **building desktop tools, automation, and systems**.
+Software Developer focused on building desktop applications, automation workflows, and system-oriented solutions with emphasis on performance, usability, and scalability.
 
-I also work as the founder of **Noctra Systems**, where I develop solutions focused on process automation and productivity tools.
+Founder of **Noctra Systems**, developing productivity-driven tools and automation solutions for Windows environments.
 
-I have practical experience in development and technical support, working at the intersection of **software engineering, infrastructure, and Windows systems automation**.
-
----
-
-## Education & Experience
-
-- Systems Development Technician – ETEC  
-- Founder of Noctra Systems  
-- Experience in IT support, networking, and infrastructure  
-- Desktop application development with Python (PySide / Tkinter)  
-- Fullstack web development (frontend + basic backend)  
-- Building automation tools for Windows  
+My background combines software development, technical support, infrastructure, and systems administration, allowing me to work across both development and operational layers.
 
 ---
 
-##  Current Technical Focus
+## Core Expertise
 
-- Desktop application development
-- Windows task and system automation
-- Productivity and maintenance tools
-- Modular architecture for local applications
-- Applied security for local data (encryption and file protection)
+- Desktop application development with Python (PySide / Tkinter)
+- Process automation and workflow optimization
+- Windows systems scripting and automation
+- Fullstack web development
+- Infrastructure and technical support
+- Modular software architecture
+- Local data protection and encryption strategies
+
 ---
+
+## Professional Background
+
+- Founder & Developer — Noctra Systems
+- Systems Development Technician — ETEC
+- Experience with networking, infrastructure, and IT operations
+- Development of internal productivity and maintenance tools
+- Support and troubleshooting for Windows environments
+
+---
+
+## Current Focus
+
+- Designing scalable desktop solutions
+- Automation for operational efficiency
+- Building maintainable modular systems
+- Local-first applications and tooling
+- Applied security for local environments
+- Improving developer and user workflows
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EduardoDosSantosFerreira&style=flat-square&color=2d77dc" alt="views">
 </p>
