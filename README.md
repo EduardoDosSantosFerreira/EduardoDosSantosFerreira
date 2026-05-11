@@ -92,15 +92,17 @@ Includes auxiliary tools, landing pages, studies, and prototypes developed throu
 
 <!-- Light Mode -->
 <a href="https://github.com/EduardoDosSantosFerreira#gh-light-mode-only">
-  <img height="250em" src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile#gh-light-mode-only">
-  <img height="250em" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&hide_border=true&langs_count=8#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&hide_border=true&langs_count=8#gh-light-mode-only">
 </a>
 
 <!-- Dark Mode -->
 <a href="https://github.com/EduardoDosSantosFerreira#gh-dark-mode-only">
-  <img height="250em" src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile#gh-dark-mode-only">
-  <img height="250em" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats-steel-omega.vercel.app/api?username=EduardoDosSantosFerreira&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EduardoDosSantosFerreira&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8#gh-dark-mode-only">
 </a>
+
+</div>
 
 </div>
 
