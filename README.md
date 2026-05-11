@@ -60,16 +60,6 @@ I have practical experience in development and technical support, working at the
 </p>
 
 ---
-
-# Contact
-
-- Email: **eduardo.dsf.dev@gmail.com**  
-- LinkedIn: https://www.linkedin.com/in/eduardodossantosferreira/  
-- Discord: **eduardo_dsf**  
-- Portfolio: https://in-my-portfolio.vercel.app  
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EduardoDosSantosFerreira&style=flat-square&color=2d77dc" alt="views">
 </p>
