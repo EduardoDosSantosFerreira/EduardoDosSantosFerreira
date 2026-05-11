@@ -4,34 +4,34 @@
 
 ---
 
-# 👋 Sobre mim
+# 👋 About Me
 
-Sou desenvolvedor e profissional de TI com foco em **construção de ferramentas desktop, automação e sistemas locais de alta confiabilidade**.
+I'm a developer and IT professional focused on **building desktop tools, automation, and systems**.
 
-Atuo também como fundador da **Noctra Systems**, onde desenvolvo soluções voltadas para automação de processos e ferramentas de produtividade.
+I also work as the founder of **Noctra Systems**, where I develop solutions focused on process automation and productivity tools.
 
-Tenho experiência prática em desenvolvimento e suporte técnico, atuando na interseção entre **engenharia de software, infraestrutura e automação de sistemas Windows**.
-
----
-
-## 🎓 Formação e experiência
-
-- Técnico em Desenvolvimento de Sistemas – ETEC  
-- Founder da Noctra Systems  
-- Experiência em suporte de TI, redes e infraestrutura  
-- Desenvolvimento de aplicações desktop com Python (PySide / Tkinter)  
-- Desenvolvimento web fullstack (front + backend básico)  
-- Criação de ferramentas de automação para Windows  
+I have practical experience in development and technical support, working at the intersection of **software engineering, infrastructure, and Windows systems automation**.
 
 ---
 
-## 🧭 Foco técnico atual
+## 🎓 Education & Experience
 
-- Desenvolvimento de aplicações desktop
-- Automação de tarefas e sistemas Windows
-- Ferramentas de produtividade e manutenção
-- Arquitetura modular de aplicações locais
-- Segurança aplicada a dados locais (criptografia e proteção de arquivos)
+- Systems Development Technician – ETEC  
+- Founder of Noctra Systems  
+- Experience in IT support, networking, and infrastructure  
+- Desktop application development with Python (PySide / Tkinter)  
+- Fullstack web development (frontend + basic backend)  
+- Building automation tools for Windows  
+
+---
+
+## 🧭 Current Technical Focus
+
+- Desktop application development
+- Windows task and system automation
+- Productivity and maintenance tools
+- Modular architecture for local applications
+- Applied security for local data (encryption and file protection)
 
 ---
 
@@ -64,25 +64,25 @@ Tenho experiência prática em desenvolvimento e suporte técnico, atuando na in
 
 ---
 
-# ⭐ Projetos principais
+# ⭐ Featured Projects
 
-> Projetos selecionados com foco em ferramentas desktop, automação e sistemas locais.
+> Selected projects focused on desktop tools, automation, and local systems.
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 |----------|-----------|-------------|
-| **[CleanCrow](https://cleancrow.vercel.app)** | Ferramenta de manutenção e otimização de sistemas Windows | Python, C# |
-| **Crowvert** | Conversor de arquivos com interface desktop | Python |
-| **DarkFeather** | Ferramenta de análise de redes Wi-Fi | Python |
-| **BlackWing** | Gerenciador de processos do sistema Windows | Python |
-| **Ravenizer** | Atualizador automático de aplicações e pacotes | Python, JavaScript |
+| **[CleanCrow](https://cleancrow.vercel.app)** | Windows system maintenance and optimization tool | Python, C# |
+| **Crowvert** | File converter with desktop interface | Python |
+| **DarkFeather** | Wi-Fi network analysis tool | Python |
+| **BlackWing** | Windows system process manager | Python |
+| **Ravenizer** | Automatic application and package updater | Python, JavaScript |
 
 ---
 
-# 🧪 Outros projetos e experimentos
+# 🧪 Other Projects & Experiments
 
-Inclui ferramentas auxiliares, landing pages, estudos e protótipos desenvolvidos ao longo da minha evolução como desenvolvedor.
+Includes auxiliary tools, landing pages, studies, and prototypes developed throughout my evolution as a developer.
 
-> Esses projetos fazem parte do processo de aprendizado contínuo e evolução técnica.
+> These projects are part of my continuous learning process and technical growth.
 
 ---
 
@@ -106,12 +106,12 @@ Inclui ferramentas auxiliares, landing pages, estudos e protótipos desenvolvido
 
 ---
 
-# 📬 Contato
+# 📬 Contact
 
 - Email: **eduardo.dsf.dev@gmail.com**  
 - LinkedIn: https://www.linkedin.com/in/eduardodossantosferreira/  
 - Discord: **eduardo_dsf**  
-- Portfólio: https://in-my-portfolio.vercel.app  
+- Portfolio: https://in-my-portfolio.vercel.app  
 
 ---
 
