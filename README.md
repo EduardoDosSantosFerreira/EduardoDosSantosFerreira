@@ -1,52 +1,84 @@
 <div align="center">
-  <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif" width="570">
+  <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif" width="570" />
 </div>
 
 ---
 
 # Eduardo Ferreira
 
-Software Developer focused on building desktop applications, automation workflows, and system-oriented solutions with emphasis on performance, usability, and scalability.
+Software engineer focused on desktop application development, process automation, and local system solutions. Work is centered on performance, maintainability, and practical system design for Windows environments.
 
-Founder of **Noctra Systems**, developing productivity-driven tools and automation solutions for Windows environments.
+Current work includes the development of internal tools and productivity systems through Noctra Systems, with involvement in both software development and technical support contexts.
 
-My background combines software development, technical support, infrastructure, and systems administration, allowing me to work across both development and operational layers.
+Experience spans application development, infrastructure support, and systems integration, with emphasis on building functional and maintainable software rather than isolated components.
 
 ---
 
-## Core Expertise
+## Areas of Work
 
-- Desktop application development with Python (PySide / Tkinter)
+- Desktop application development (Windows-based systems)
 - Process automation and workflow optimization
-- Windows systems scripting and automation
-- Fullstack web development
-- Infrastructure and technical support
-- Modular software architecture
-- Local data protection and encryption strategies
+- Modular software design and architecture
+- Systems integration and internal tooling
+- Technical support and infrastructure operations
+- Local data handling and offline-first systems
+- Full-stack development when required for supporting interfaces or services
 
 ---
 
-## Professional Background
+## Technical Stack
 
-- Founder & Developer — Noctra Systems
-- Systems Development Technician — ETEC
-- Experience with networking, infrastructure, and IT operations
-- Development of internal productivity and maintenance tools
-- Support and troubleshooting for Windows environments
+**Desktop & Backend**
+- Python (PySide, Tkinter)
+- Node.js
+- Windows-based automation and system integration
+
+**Web & APIs**
+- JavaScript / TypeScript
+- React / Vue (supporting interfaces)
+- RESTful APIs
+
+**Infrastructure & Tools**
+- Windows system scripting
+- Git version control
+- Automation tooling
+- Local security and data handling concepts
+
+---
+
+## Professional Experience
+
+### Noctra Systems — Founder / Developer
+Development of desktop tools and automation systems focused on productivity and operational workflows in Windows environments. Work includes system design, implementation, and maintenance of modular applications.
+
+### Technical Degree in Systems Development — ETEC
+Formal education in software development, covering programming fundamentals, systems logic, and applied technical support.
+
+### Additional Experience
+- Technical support in Windows environments
+- Internal tooling for automation and maintenance tasks
+- Troubleshooting and systems diagnostics
+- Integration of software solutions in operational environments
 
 ---
 
 ## Current Focus
 
-- Designing scalable desktop solutions
-- Automation for operational efficiency
-- Building maintainable modular systems
-- Local-first applications and tooling
-- Applied security for local environments
-- Improving developer and user workflows
+- Improving modularity and maintainability of desktop systems
+- Automation of repetitive operational processes
+- Stability and performance improvements in local applications
+- Design of offline-first software systems
+- Refactoring and modernization of existing codebases
+- Reduction of system complexity in production tools
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EduardoDosSantosFerreira&style=flat-square&color=2d77dc" alt="views">
-</p>
+## Engineering Principles
+
+- Prefer simplicity over unnecessary complexity
+- Systems should be predictable and maintainable
+- Performance and reliability are primary constraints
+- Automation should reduce operational overhead
+- Software is evaluated by long-term usability, not initial implementation
+
+---
