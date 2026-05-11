@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 About Me
+# About Me
 
 I'm a developer and IT professional focused on **building desktop tools, automation, and systems**.
 
@@ -14,7 +14,7 @@ I have practical experience in development and technical support, working at the
 
 ---
 
-## 🎓 Education & Experience
+## Education & Experience
 
 - Systems Development Technician – ETEC  
 - Founder of Noctra Systems  
@@ -25,7 +25,7 @@ I have practical experience in development and technical support, working at the
 
 ---
 
-## 🧭 Current Technical Focus
+##  Current Technical Focus
 
 - Desktop application development
 - Windows task and system automation
@@ -34,9 +34,6 @@ I have practical experience in development and technical support, working at the
 - Applied security for local data (encryption and file protection)
 
 ---
-
-# 🧰 Stack
-
 ## Languages
 <p>
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -64,7 +61,7 @@ I have practical experience in development and technical support, working at the
 
 ---
 
-# 📬 Contact
+# Contact
 
 - Email: **eduardo.dsf.dev@gmail.com**  
 - LinkedIn: https://www.linkedin.com/in/eduardodossantosferreira/  
