@@ -3,9 +3,6 @@
 </div>
 
 ---
-
-# Eduardo Ferreira
-
 Software engineer focused on desktop application development, process automation, and local system solutions. Work is centered on performance, maintainability, and practical system design for Windows environments.
 
 Current work includes the development of internal tools and productivity systems through Noctra Systems, with involvement in both software development and technical support contexts.
