@@ -51,7 +51,7 @@ Experience spans application development, infrastructure support, and systems in
 ### Noctra Systems — Founder / Developer
 Development of desktop tools and automation systems focused on productivity and operational workflows in Windows environments. Work includes system design, implementation, and maintenance of modular applications.
 
-### Technical Degree in Systems Development — ETEC
+### Technical Degree in Systems Development — State Technical School (ETEC)
 Formal education in software development, covering programming fundamentals, systems logic, and applied technical support.
 
 ### Additional Experience
