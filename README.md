@@ -1,62 +1,54 @@
 <div align="center">
+  <img
+    src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif"
+    width="520"
+  />
+</div>
 
-<img src="https://cleancrow.vercel.app/src/assets/img/profile_icons/crowico.png" width="110">
+<h1 align="center">Eduardo dos Santos Ferreira</h1>
 
-# CleanCrow
+<p align="center">
+  <strong>Software Engineer focused on desktop software, Windows automation, and local-first applications.</strong>
+</p>
+
+<p align="center">
+  I build desktop software, Windows automation tools, and local-first applications
+  focused on practical operational problems.
+</p>
+
+<p align="center">
+  <a href="https://github.com/EduardoDosSantosFerreira">GitHub</a> •
+  <a href="https://www.linkedin.com/in/eduardodossantosferreira/">LinkedIn</a> •
+  <a href="mailto:eduardo.dsf.dev@gmail.com">Email</a>
+</p>
+
+---
+
+# Featured Projects
+
+## <img src="https://cleancrow.vercel.app/src/assets/img/profile_icons/crowico.png" width="36" height="36" align="center"> CleanCrow
 
 ### Windows Maintenance & Automation
 
 A modular Windows utility for system maintenance, diagnostics, cleanup,
 package management, and automation.
 
-<p>
-  <a href="https://cleancrow.vercel.app/">Website</a> •
-  <a href="https://github.com/EduardoDosSantosFerreira/cleancrow-legacy">Repository</a>
-</p>
+CleanCrow is the project that best represents my current engineering focus:
+**desktop software, Windows integration, automation, modular architecture,
+and operational tooling.**
 
-</div>
+### Engineering Focus
 
----
+- Modular execution architecture
+- Windows API integration
+- Native Windows tooling
+- Parallel execution of independent operations
+- Administrative privilege handling
+- Real-time logging and progress tracking
+- Package management through Winget
+- System maintenance automation
 
-## Overview
-
-CleanCrow was built around a simple operational problem:
-
-> Windows maintenance often requires multiple commands, utilities, and
-> manual procedures that are difficult to centralize and execute consistently.
-
-CleanCrow turns these operations into a controlled desktop workflow while
-keeping individual maintenance routines separated into independent modules.
-
-The project is intentionally built around **native Windows functionality**
-where possible, using tools such as `cleanmgr`, `DISM`, `winget`, Windows APIs,
-and native command execution.
-
----
-
-## Problem → Solution
-
-### Problem
-
-Routine Windows maintenance can involve:
-
-- Temporary files spread across multiple locations
-- Browser and application caches
-- Windows Update leftovers
-- GPU shader caches
-- Error reports and logs
-- Recycle Bin contents
-- Native Windows maintenance commands
-- Application updates
-- Administrative operations
-
-Handling these tasks manually means repeatedly opening different tools,
-running commands, checking permissions, and verifying results.
-
-### Solution
-
-CleanCrow provides a single desktop interface that orchestrates these
-operations through a modular execution engine.
+### Architecture
 
 ```text
 User
