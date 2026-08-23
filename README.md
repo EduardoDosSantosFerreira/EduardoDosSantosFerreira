@@ -1,231 +1,218 @@
 <div align="center">
-  <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif" width="570" />
+  <img src="https://github.com/EduardoDosSantosFerreira/EduardoDosSantosFerreira/blob/main/img/TheCrowWallpaperGif.gif" width="520" />
 </div>
 
 <h1 align="center">Eduardo dos Santos Ferreira</h1>
 
 <p align="center">
-  Software Engineer focused on desktop systems, Windows automation, and internal tooling.
+  <strong>Software Engineer focused on desktop software, Windows automation, and local-first applications.</strong>
 </p>
 
 <p align="center">
-  Building reliable local-first applications, operational utilities, and automation systems designed for real production workflows.
+  I build desktop software, Windows automation tools, and local-first applications focused on practical operational problems.
+</p>
+
+<p align="center">
+  <a href="https://github.com/EduardoDosSantosFerreira">GitHub</a> •
+  <a href="https://www.linkedin.com/in/eduardodossantosferreira/">LinkedIn</a> •
+  <a href="mailto:eduardo.dsf.dev@gmail.com">Email</a>
 </p>
 
 ---
 
-# Core Engineering Areas
+# Featured Projects
 
-- Desktop application architecture
-- Windows-native automation and tooling
-- Internal systems and operational workflows
-- Offline-first software design
-- Local encrypted storage systems
-- Maintenance and diagnostics utilities
-- Process automation and execution management
-- Modular software architecture
+## <img src="https://cleancrow.vercel.app/src/assets/img/profile_icons/crowico.png" width="32" height="32" align="center"> CleanCrow — Windows Maintenance & Automation
 
----
+**CleanCrow** is a modular Windows maintenance utility built to centralize system cleanup, diagnostics, package management, and operational logging.
 
-# Featured Systems
+The project was created around a practical problem: routine Windows maintenance often involves repetitive commands, scattered tools, and inconsistent execution.
 
-## 🜂 KAIRUS — Secure Offline Notes Platform
+CleanCrow brings these operations into a single desktop workflow while keeping the underlying system operations modular.
 
-Encrypted local-first note management system designed for environments where privacy, local ownership, and reliability are critical.
+### What it does
 
-### Key Engineering Decisions
-
-- Cloud synchronization intentionally avoided to preserve local control over sensitive data
-- Recovery handling implemented to reduce risks of data loss during unexpected interruptions
-- Encryption workflow designed around isolated local persistence instead of external services
-
-### Core Features
-
-- AES-256-CBC encryption
-- PBKDF2 key derivation (100k iterations)
-- Password-protected folders
-- Auto-save and recovery handling
-- Offline-first architecture
-- Encrypted local storage
-- PDF and TXT export support
-
-### Engineering Focus
-
-- Secure local persistence
-- Encryption workflow implementation
-- Recovery and fallback handling
-- Desktop application maintainability
-- Reliability-focused local architecture
-
-### Technical Stack
-
-`Python` • `PySide` • `Cryptography` • `Local Storage Systems`
-
-### Repository
-
-```bash
-github.com/EduardoDosSantosFerreira/kairus
-```
-
----
-
-## 🐦‍⬛ CleanCrow — Windows Maintenance & Automation Suite
-
-Windows maintenance and operational cleanup utility focused on automation, execution reliability, and native system integration.
-
-### Problem
-
-Manual maintenance routines across Windows environments were repetitive, inconsistent, and difficult to centralize.
-
-### Solution
-
-Developed a modular desktop utility capable of automating cleanup operations, package management, and execution logging through native Windows tooling.
-
-### Core Features
-
-- Temporary file cleanup
-- Native Windows command execution
-- Winget integration
-- Real-time operation logs
-- Progress tracking
-- Administrative privilege elevation
-- Modular execution structure
+* Temporary and system file cleanup
+* Browser and shader cache management
+* Windows Update cache cleanup
+* Recycle Bin and thumbnail cache management
+* DISM and `cleanmgr` integration
+* Winget package updates
+* Administrative privilege handling
+* Real-time progress and operation logs
+* Multiple cleaning modes
+* Parallel execution of independent operations
 
 ### Architecture
 
-```text
-Interface Layer
+```text id="0q3h2x"
+Interface
     ↓
-Execution Layer
+Execution Engine
     ↓
-Windows System Operations
+Modular Cleaners
+    ↓
+Windows APIs / Native Tools
+    ↓
+System Operations
 ```
+
+The project separates the interface, execution engine, individual cleaners, Windows API integration, and logging system.
 
 ### Engineering Focus
 
-- Windows systems integration
-- Execution flow management
-- Automation of operational routines
-- Maintainable modular structure
-- Reliability in maintenance workflows
+`Python` `PyQt5` `Windows API` `Winget` `ThreadPoolExecutor` `PyInstaller`
 
-### Technical Stack
-
-`Python` • `PyQt5` • `Windows API` • `Winget` • `PyInstaller`
-
-### Current Limitations
-
-- Windows-only support
-- No rollback mechanism
-- Dependency on native Windows utilities
-
-### Repository
-
-```bash
-github.com/EduardoDosSantosFerreira/cleancrow-legacy
-```
+**Repository:**
+[https://github.com/EduardoDosSantosFerreira/cleancrow-legacy](https://github.com/EduardoDosSantosFerreira/cleancrow-legacy)
 
 ---
 
-## ⚡ DarkFeather — Wireless Diagnostics Utility
+## <img src="https://eduardodossantosferreira.github.io/kairus/icon.png" width="32" height="32" align="center"> Kairus — Encrypted Offline Notes
 
-Wireless profile inspection and diagnostics utility developed for operational support and local network analysis in Windows environments.
+**Kairus** is a desktop notes application built around local ownership, encrypted persistence, and offline operation.
 
-### Purpose
+The project intentionally avoids requiring cloud synchronization, keeping application data under the user's local control.
 
-Built to simplify inspection and recovery of locally stored wireless configuration data used in support and maintenance workflows.
+### Highlights
 
-### Core Features
-
-- Wi-Fi profile extraction
-- XML profile parsing
-- Adapter and GUID identification
-- Local password visualization
-- Administrative privilege handling
-- Native Windows integration
+* Encrypted local storage
+* Password-protected folders
+* Auto-save and recovery handling
+* Offline-first architecture
+* PDF and TXT export
+* Local persistence without mandatory external services
 
 ### Engineering Focus
 
-- Windows networking integration
-- Local diagnostics tooling
-- Native command interaction
-- Operational utility development
-- Desktop workflow optimization
+* Desktop application architecture
+* Local data persistence
+* Encryption workflows
+* Recovery handling
+* Maintainable local-first design
 
-### Technical Stack
+**Stack:** `Python` `PySide` `cryptography`
 
-`Python` • `Tkinter` • `WMI` • `Windows Networking`
+**Repository:**
+[https://github.com/EduardoDosSantosFerreira/kairus](https://github.com/EduardoDosSantosFerreira/kairus)
 
-### Repository
+---
 
-```bash
-github.com/EduardoDosSantosFerreira/darkfeather
-```
+## <img src="https://eduardodossantosferreira.github.io/ravenizer/ravenizer.png" width="32" height="32" align="center"> Ravenizer — Windows Update Automation
+
+**Ravenizer** is a desktop utility for automating Windows and application updates through package management tools.
+
+It combines a graphical workflow with Winget and Chocolatey to reduce repetitive update operations.
+
+### Highlights
+
+* `winget upgrade --all`
+* Chocolatey package updates
+* Operation logging
+* Progress tracking
+* Desktop interface
+* One-click update workflow
+
+**Stack:** `Python` `PySide6` `Winget` `Chocolatey`
+
+**Repository:**
+[https://github.com/EduardoDosSantosFerreira/ravenizer](https://github.com/EduardoDosSantosFerreira/ravenizer)
+
+---
+
+## <img src="https://crowvert.vercel.app/src/assets/img/profile_icons/crowvert.png" width="32" height="32" align="center"> Crowvert — Desktop File Conversion
+
+**Crowvert** is a local desktop utility for converting and processing files without requiring online services.
+
+### Highlights
+
+* TXT → DOCX
+* DOCX → PDF
+* PDF → DOCX
+* SVG → PNG
+* 7Z → ZIP
+* Conversion history
+* Batch-oriented workflows
+* Modular application structure
+
+**Stack:** `Python` `Tkinter`
+
+**Repository:**
+[https://github.com/EduardoDosSantosFerreira/crowvert](https://github.com/EduardoDosSantosFerreira/crowvert)
+
+---
+
+# Other Projects
+
+### <img src="https://eduardodossantosferreira.github.io/darkfeather/src/assets/img/profile_icons/darkfeather.png" width="28" height="28" align="center"> DarkFeather
+
+Windows wireless diagnostics utility for inspecting local network profiles, parsing wireless configuration data, and interacting with native Windows networking functionality.
+
+`Python` `Tkinter` `WMI` `Windows Networking`
+
+**Repository:**
+[https://github.com/EduardoDosSantosFerreira/darkfeather](https://github.com/EduardoDosSantosFerreira/darkfeather)
+
+### <img src="https://eduardodossantosferreira.github.io/rook/img/logo/logo.png" width="28" height="28" align="center"> Rook
+
+Windows performance optimization utility focused on system configuration, performance settings, restore point creation, and automated maintenance routines.
+
+`Python` `PySide6` `Windows`
+
+**Repository:**
+[https://github.com/EduardoDosSantosFerreira/rook](https://github.com/EduardoDosSantosFerreira/rook)
+
+---
+
+# Noctra Systems
+
+## Founder & Independent Software Developer
+
+**Noctra Systems** is my independent software development and technology services operation, focused on building practical software for real-world technical and operational problems.
+
+My work includes:
+
+* Desktop application development
+* Windows automation
+* System maintenance and diagnostics
+* Internal tools and operational utilities
+* Local-first applications
+* File processing and conversion systems
+* Process automation
+* Windows-native integrations
+* Custom software solutions
+
+The goal is simple: **turn repetitive, technical, or operational problems into practical software solutions.**
 
 ---
 
 # Technical Focus
 
-Primary focus on Python-based desktop systems, Windows automation, and operational tooling.
+My strongest focus is **Python desktop development and Windows system integration**.
 
-Additional experience includes development of supporting interfaces and API integrations using JavaScript, TypeScript, React, Vue, and Node.js where required by operational workflows.
+### Core
 
----
+`Python` `PySide6` `PyQt5` `Tkinter`
 
-# Professional Experience
+### Windows & Automation
 
-## Noctra Systems — Founder / Software Developer
-
-Development of internal systems, automation tools, and desktop applications focused on operational reliability and workflow optimization.
-
-Work includes:
-
-- Desktop application architecture
-- Automation of repetitive operational processes
-- Systems diagnostics and maintenance tooling
-- Integration with Windows-native utilities
-- Refactoring and maintainability improvements
-- Development of local-first operational systems
+`Windows API` `WMI` `PowerShell` `CMD` `Winget` `PyInstaller`
 
 ---
 
-## Technical Degree in Systems Development — ETEC
+# Engineering Principles
 
-Technical education focused on:
-
-- Software development
-- Systems architecture fundamentals
-- Application structure
-- Infrastructure and support
-- Programming logic
-- Technical problem solving
-
----
-
-# Current Engineering Direction
-
-- Improving maintainability of desktop systems
-- Expanding modular internal tooling
-- Reducing operational complexity through automation
-- Improving reliability in local applications
-- Refactoring legacy structures for long-term maintainability
-- Building more resilient local-first systems
-
----
-
-# Development Approach
-
-- Prefer practical solutions over unnecessary complexity
-- Build systems focused on long-term maintainability
-- Prioritize reliability and predictable behavior
-- Design software around real operational constraints
-- Use automation to reduce repetitive workflows
-- Keep systems functional, maintainable, and operationally simple
+* **Practicality** — solve the actual problem before adding complexity.
+* **Maintainability** — keep systems understandable and extensible.
+* **Automation** — eliminate repetitive operational work.
+* **Reliability** — design for predictable behavior and failure handling.
+* **Local ownership** — use local-first approaches when cloud services are unnecessary.
+* **Modularity** — separate responsibilities so systems can evolve over time.
 
 ---
 
 <div align="center">
 
-### No cloud. No unnecessary complexity. Just functional systems.
+### Build useful things. Automate what repeats. Keep the system understandable.
 
 </div>
